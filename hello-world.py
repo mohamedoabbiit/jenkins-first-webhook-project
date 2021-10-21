@@ -1,1 +1,1 @@
-print('Hi Mohamed Abbi welcome to Jenkins recap')
+print('Hi Mohamed Abbi welcome to Jenkins recap we will end the training at 12:30pm')
